@@ -1,6 +1,6 @@
 # Max Word Count in a Book Using Apache Spark
 
-This project demonstrates how to use Apache Spark to find the most frequently used word in a book. It is written in Python and uses PySpark, the Python API for Spark.
+This project demonstrates how to use Apache Spark to find the most frequently used word in a book. It is written in Python and uses PySpark.
 
 ## Overview
 
